@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+celery
+redis
+python-multipart
+alembic
+pydantic
+pydantic-settings
+asyncio
+websockets
+sse-starlette
